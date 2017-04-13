@@ -1,6 +1,6 @@
 # include < stdio .h >
 int main (){
 int number = 100;
-printf ( "%c" , number );
+printf ( "%dnumber-printer.cpp" , number );
 return 0;
 }
